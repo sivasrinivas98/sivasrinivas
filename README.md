@@ -1,3 +1,3 @@
-# CV
-My Curriculum vitae website !!<br>
+# Resume Website
+Website for my Curriculum vitae !!<br>
 :)
